@@ -1,0 +1,242 @@
+[
+     {
+            "source": {
+                "id": null,
+                "name": "Usnews.com"
+            },
+            "author": null,
+            "title": "Rescue Workers Find 2 Coal Miners Alive in Poland; 5 Missing",
+            "description": null,
+            "url": "https://www.usnews.com/news/business/articles/2018-05-05/7-miners-missing-in-poland-after-tremor-hits-coal-mine",
+            "urlToImage": null,
+            "publishedAt": "2018-05-05T16:07:30Z"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elizabeth Weise, Adrian Marsh",
+            "title": "Video shows Google self-driving van being hit by car in Arizona",
+            "description": "A self-driving van that's part of Google's tests in Arizona was involved in an accident Friday after a car driven by a human swerved and crashed into it.",
+            "url": "https://www.usatoday.com/story/tech/2018/05/04/google-self-driving-van-involved-crash-arizona-driver-injured/582446002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/eafb8c8646410a864b922dc1e080a27af13d6541/c=0-0-1199-677&r=x1683&c=3200x1680/local/-/media/2018/05/04/USATODAY/USATODAY/636610512478293789-DcYHipyVQAASwAk.jpg",
+            "publishedAt": "2018-05-05T16:02:09Z"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": "",
+            "title": "Berkshire Hathaway Annual Meeting 2018: Trade 'Is a Win-Win Situation'",
+            "description": "Tens of thousands of investors have descended on Omaha Saturday for the annual meeting of Warren Buffett’s Berkshire Hathaway. DealBook will be here providing analysis",
+            "url": "https://www.nytimes.com/2018/05/05/business/dealbook/berkshire-hathaway-annual-meeting-stock.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/05/06/business/dealbook/06db-briefing-buffett2/06db-briefing-buffett2-facebookJumbo.jpg",
+            "publishedAt": "2018-05-05T15:25:00Z"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lisa Marie Segarra",
+            "title": "California's Economy Is Now Bigger Than All of the UK",
+            "description": "",
+            "url": "http://fortune.com/2018/05/05/california-fifth-biggest-economy-passes-united-kingdom/",
+            "urlToImage": "https://fortunedotcom.files.wordpress.com/2018/05/california-economy-united-kingdom.jpg",
+            "publishedAt": "2018-05-05T15:07:29Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wxyz.com"
+            },
+            "author": null,
+            "title": "UPDATE: 190000 DTE customers remain without power in metro Detroit",
+            "description": "After high winds and severe weather across Southeast Michigan on Friday, DTE says that about 190,000 customers in the area are without power. That is as of Saturday at 10:30 a.m.",
+            "url": "https://www.wxyz.com/news/update-200000-dte-customers-without-power-in-se-mich",
+            "urlToImage": "https://mediaassets.wxyz.com/photo/2018/01/28/DTE_1517143428896_76614515_ver1.0_900_675.jpg",
+            "publishedAt": "2018-05-05T14:44:19Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Miamiherald.com"
+            },
+            "author": "Howard Cohen",
+            "title": "'Say a prayer for us all.' Carnival passenger shares her nightmare as water floods deck",
+            "description": "Carnival Cruise's The Carnival Dream had a deck flood after a break in its fire suppression system on May 3 during a seven-day cruise to the western Caribbean from New Orleans. Passenger Marla DeAnn Haase posted images to Facebook as water poured from ceiling…",
+            "url": "http://www.miamiherald.com/living/travel/cruises/article210536809.html",
+            "urlToImage": "http://www.miamiherald.com/latest-news/87z4gx/picture210538034/alternates/LANDSCAPE_1140/Carnivalfloodwall.jpg",
+            "publishedAt": "2018-05-05T14:35:43Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nypost.com"
+            },
+            "author": "Kevin D. Williamson",
+            "title": "Changing the Scouts won't change the differences between boys and girls",
+            "description": "Is “boy” a dirty word? It is for the Boy Scouts of America, which now wants its premier scouting program to be known as “Scouts BSA,” eliminating the word “boy” and all its problematic, rambunctiou…",
+            "url": "https://nypost.com/2018/05/05/changing-the-scouts-wont-change-the-differences-between-boys-and-girls/",
+            "urlToImage": "https://thenypost.files.wordpress.com/2018/05/boy-scouts.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2018-05-05T14:07:00Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Longislandpress.com"
+            },
+            "author": "Bernie Kilkelly",
+            "title": "New Brews Join Long Island Craft Beer Boom",
+            "description": "Since New York State created a farm brewery license in 2012, the number of craft breweries on LI more than tripled from 12 to 44 today — 26 of which are farm breweries that use locally grown ingredients.",
+            "url": "https://www.longislandpress.com/2018/05/05/new-brews-join-long-island-craft-beer-boom/",
+            "urlToImage": "https://www.longislandpress.com/wp-content/uploads/2018/05/long-beach-brewing-heneghans-1-e1525466320497.jpg",
+            "publishedAt": "2018-05-05T13:00:59Z"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew DeBord",
+            "title": "All the ways that Tesla could go bankrupt in the next year",
+            "description": "For the first time in ten years, a Tesla bankruptcy is being seriously discussed. Investors need to start thinking not just about the stock tanking from its cur",
+            "url": "http://www.businessinsider.com/how-tesla-could-go-bankrupt-2018-5",
+            "urlToImage": "https://amp.businessinsider.com/images/59f8e00bbcf93d47008b5fbd-640-320.jpg",
+            "publishedAt": "2018-05-05T12:58:42Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "King5.com"
+            },
+            "author": "Dan Caplinger, The Motley Fool",
+            "title": "Is gasoline headed back to $3 a gallon? It's already higher in some states",
+            "description": "Is gasoline headed back to $3 a gallon?",
+            "url": "https://www.king5.com/article/news/nation-now/is-gasoline-headed-back-to-3-a-gallon-its-already-higher-in-some-states/465-3f7d6d9d-dd06-444c-b483-b1cf43a64fdc",
+            "urlToImage": "https://media.king5.com/assets/GANNETT/images/ccb6f2e9-8ce2-4d5b-a36f-31067304b4af/ccb6f2e9-8ce2-4d5b-a36f-31067304b4af_1140x641.jpg",
+            "publishedAt": "2018-05-05T10:42:47Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Q13fox.com"
+            },
+            "author": "http://www.facebook.com/Q13FOX",
+            "title": "Community reacts to proposed Seattle employee tax",
+            "description": "SEATTLE -- For some in Seattle, the possibility of more housing options from the proposed employee tax could be a saving grace; for others, they’re concerned the tax could cost them their livelihood.\r\n\nSeattle is considering a new employee tax, also known as …",
+            "url": "http://q13fox.com/2018/05/04/community-reacts-to-proposed-seattle-employee-tax/",
+            "urlToImage": "https://tribkcpq.files.wordpress.com/2018/05/homeless.png",
+            "publishedAt": "2018-05-05T05:18:02Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Latimes.com"
+            },
+            "author": "Hugo Martin",
+            "title": "Aloha! Southwest Airlines to fly to Hawaii, but no flights from LAX — yet",
+            "description": "The nation's most popular domestic carrier will fly to Hawaii from San Diego, Sacramento, San Jose and Oakland but not from Los Angeles, Burbank or Ontario.",
+            "url": "http://www.latimes.com/business/la-fi-southwest-hawaii-routes-20180504-story.html",
+            "urlToImage": "http://www.latimes.com/resizer/5B7cBxndXHOY4ac5nPB6MLiTjpg=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/WQSIDHWSURCFJGE4V3YVJEBCVE.jpg",
+            "publishedAt": "2018-05-05T00:22:01Z"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": "https://www.nytimes.com/by/natalie-kitroeff",
+            "title": "Jobless Rate Looks Like Old Times, but the Economy Doesn't",
+            "description": "With unemployment below 4 percent for the first time since 2000, the recovery’s duration is remarkable, but lagging pay remains a riddle.",
+            "url": "https://www.nytimes.com/2018/05/04/business/economy/unemployment-jobs.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/05/05/business/05JOBLESS/05JOBLESS-facebookJumbo.jpg",
+            "publishedAt": "2018-05-04T23:14:02Z"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Ryan Dube",
+            "title": "Argentina Central Bank Boosts Main Rate to 40% in Third Rise in Eight Days",
+            "description": "Argentina’s central bank unexpectedly raised interest rates for the third time in eight days Friday in an attempt to prop up its faltering currency, as the country finds itself once again battling a financial crisis.",
+            "url": "https://www.wsj.com/articles/argentina-central-bank-boosts-main-rate-to-40-in-third-rise-in-eight-days-1525445140",
+            "urlToImage": "https://images.wsj.net/im-9405/social",
+            "publishedAt": "2018-05-04T20:47:00Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thelensnola.org"
+            },
+            "author": "Michael Isaac Stein",
+            "title": "Actors were paid to support Entergy's power plant at New Orleans City Council meetings",
+            "description": "Dozens of people in orange shirts showed up at meetings to support Entergy's new power plant. But for many of them, it was just an acting gig. They were paid to show up and speak on the company's behalf. The Lens interviewed a few of them and reviewed message…",
+            "url": "https://thelensnola.org/2018/05/04/actors-were-paid-to-support-entergys-power-plant-at-new-orleans-city-council-meetings/",
+            "urlToImage": "https://thelensnola.org/wp-content/uploads/2017/10/DSC_9087-e1508509279491-140x140.jpg",
+            "publishedAt": "2018-05-04T20:41:37Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketwatch.com"
+            },
+            "author": "Emily Bary",
+            "title": "Pandora stock has its best day ever on optimism for turnaround",
+            "description": "Pandora Media Inc.’s recovery showed signs of momentum when the company reported better-than-expected financial results though listener-hours for the quarter still declined relative to a year earlier.",
+            "url": "https://www.marketwatch.com/story/pandora-says-improved-marketing-will-help-win-back-listeners-2018-05-03",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-FM069_pandor_ZG_20170508205101.jpg",
+            "publishedAt": "2018-05-04T20:21:00Z"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Howard Schneider",
+            "title": "With no gut punch in view, Fed confident in its inflation footing",
+            "description": "U.S. Federal Reserve officials claimed a big win in hitting their inflation target this week, confident that they had put a decade of false starts and deflation scares behind them.",
+            "url": "https://uk.reuters.com/article/us-usa-fed-inflation/with-no-gut-punch-in-view-fed-confident-in-its-inflation-footing-idUKKBN1I52FD",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20180504&t=2&i=1258572321&w=1200&r=LYNXMPEE431KP",
+            "publishedAt": "2018-05-04T19:52:31Z"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alyssa Pagano",
+            "title": "Jeff Bezos on breaking up and regulating Amazon",
+            "description": "Amazon CEO Jeff Bezos and Axel Springer CEO Mathias Döpfner discuss the need to regulate large tech companies, the possibility of breaking up Amazon, and the im",
+            "url": "http://www.businessinsider.com/jeff-bezos-breaking-up-regulating-amazon-2018-4",
+            "urlToImage": "https://amp.businessinsider.com/images/5ae765d819ee861e008b46da-640-320.jpg",
+            "publishedAt": "2018-05-04T18:30:41Z"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "United apologizes for \"concerning incident\" involving flight attendant",
+            "description": "United's regional service provider Trans States Airlines said it is aware of reports of a flight attendant's \"erratic behavior\" and that the situation is under investigation",
+            "url": "https://www.cbsnews.com/news/united-apologizes-concerning-incident-flight-attendant-trans-states-airlines-flight-4689/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/05/04/b8b4ccb2-7351-4c99-8a8b-e5a4c395c377/thumbnail/1200x630/97c4aff8d25c68156bd759686c082560/blurred1.jpg",
+            "publishedAt": "2018-05-04T17:21:00Z"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pymnts.com"
+            },
+            "author": "",
+            "title": "Flipkart Still Hasn't Finalized Walmart Deal",
+            "description": "Walmart is far along in discussions with Flipkart for a controlling stake in the Indian eCommerce marketplace, but Flipkart’s board hasn’t yet firmed up the deal. However, a source close to the matter said a resolution could happen in a matter of days, Reuter…",
+            "url": "https://www.pymnts.com/news/retail/2018/flipkart-walmart-ecommerce-marketplace/",
+            "urlToImage": "https://securecdn.pymnts.com/wp-content/uploads/2018/05/shutterstock_174261434-1.jpg",
+            "publishedAt": "2018-05-04T15:03:33Z"
+        }
+]
