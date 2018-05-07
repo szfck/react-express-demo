@@ -1,6 +1,8 @@
 const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 
+console.log(`require user ----- `);
+
 const UserSchema = new mongoose.Schema({
     email: {
         type: String,
@@ -18,7 +20,7 @@ UserSchema.pre('save', function saveHook(next) {
 
     if (!user.isModified('password')) return next();
 
-    return bcrypt.genSalt((saltError, slat) => {
+    return bcrypt.genSalt((saltError, salt) => {
         if (saltError) { return next(saltError); }
 
         return bcrypt.hash(user.password, salt, (hashError, hash) => {
@@ -30,4 +32,8 @@ UserSchema.pre('save', function saveHook(next) {
         });
     });
 });
+
+mongoose.model('User', UserSchema);
+
+console.log(`require user end ----- `);
 

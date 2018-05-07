@@ -24,6 +24,7 @@ class LoginPage extends React.Component {
     }
 
     processForm(event) {
+        console.log(`react login ---`)
         // prevent default action. in this case, action is the form submission event
         event.preventDefault();
 
@@ -36,7 +37,7 @@ class LoginPage extends React.Component {
         // Post login data
         fetch('http://localhost:3000/auth/login', {
             method: 'POST',
-            cache: false,
+            cache: 'no-cache',
             headers: {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json',

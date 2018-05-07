@@ -23,6 +23,7 @@ class SignUpPage extends React.Component {
     }
 
     processForm(event) {
+        
         // prevent default action. in this case, action is the form submission event
         event.preventDefault();
 
@@ -38,10 +39,12 @@ class SignUpPage extends React.Component {
             return;
         }
 
+        console.log('click sign up');
+
         // Post registration data
         fetch('http://localhost:3000/auth/signup', {
             method: 'POST',
-            cache: false,
+            cache: 'no-cache',
             headers: {
                 'Accept': 'application/json',
                 'Content-Type': 'application/json',

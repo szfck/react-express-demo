@@ -5,6 +5,8 @@ import React from 'react';
 
 import NewsCard from '../NewsCard/NewsCard'
 
+import Auth from '../Auth/Auth';
+
 class NewsPanel extends React.Component {
     constructor() {
         super();
@@ -32,8 +34,11 @@ class NewsPanel extends React.Component {
 
         fetch('http://localhost:3000/news', {
             method: 'GET',
-            cache: 'no-cache'
-            })
+            cache: 'no-cache',
+            headers: {
+                'Authorization': 'bearer ' + Auth.getToken()
+            }
+        })
             .then((res) => res.json())
             .then((news) => {
                 this.setState({
