@@ -1,6 +1,6 @@
 var express = require('express');
 var path = require('path');
-
+var passport = require('passport');
 var index = require('./routes/index');
 var news = require('./routes/news');
 
@@ -17,6 +17,12 @@ app.all('*', function(req, res, next) {
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
   next();
 });
+
+app.use(passport.initialize());
+var localSignupStrategy = require('./passport/signup_passport');
+var localLoginStrategy = require('./passport/login_passport');
+passport.use('local-singup', localSignupStrategy);
+passport.use('local-login', localLoginStrategy);
 
 app.use('/', index);
 app.use('/news', news);
